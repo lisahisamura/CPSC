@@ -6,6 +6,7 @@ Assignment 1 Sqlite
 
 Submitted Source Files:
 HisamuraLisa_Assignment1.py
+StudentDB.db
 README.txt
 
 Errors: 
