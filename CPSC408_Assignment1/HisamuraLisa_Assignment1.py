@@ -2,17 +2,15 @@ import sqlite3
 import csv
 import random
 
-conn = sqlite3.connect('/Users/lisahisamura/Downloads/CPSC408/StudentDB.db')
+conn = sqlite3.connect('/Users/lisahisamura/Downloads/CPSC408/SqlAssignment/StudentDB.db')
 mycursor = conn.cursor()
 
 student_advisors = ["Eric Chimenti", "Claudine Jaenichen", "Andrew Shalat", "Kathleen Kaiser", "Adriana Falcon"]
 
-mycursor.execute("DELETE FROM Student")
-conn.commit()
 
 # a. Import the students.csv file
 def generate_csv():
-    with (open('/Users/lisahisamura/Downloads/CPSC408/students.csv', 'r') as file):
+    with (open('/Users/lisahisamura/Downloads/CPSC408/SqlAssignment/students.csv', 'r') as file):
         csvreader = csv.DictReader(file)
 
         for row in csvreader:
