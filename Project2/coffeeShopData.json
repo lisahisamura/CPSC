@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Bodhi Leaf Coffee Traders",
+        "city": "Orange, CA",
+        "isStudyFriendly": true,
+        "imageName": "bodhileaf"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Rabbit & Bean Coffee Bar",
+        "city": "La Habra, CA",
+        "isStudyFriendly": true,
+        "imageName": "rabbitbean"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Caffe In Coffee Co.",
+        "city": "Anaheim, CA",
+        "isStudyFriendly": false,
+        "imageName": "caffein"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Ape Coffee",
+        "city": "Orange, CA",
+        "isStudyFriendly": true,
+        "imageName": "apecoffee"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Tierra Mia Coffee",
+        "city": "Anaheim, CA",
+        "isStudyFriendly": true,
+        "imageName": "tierramia"
+    }
+    
+]
