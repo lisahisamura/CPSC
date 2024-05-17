@@ -1,0 +1,45 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Airoma Cafe",
+        "city": "Garden Grove, CA",
+        "isStudyFriendly": true,
+        "imageName": "airoma"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Da Vien Coffee",
+        "city": "Garden Grove, CA",
+        "isStudyFriendly": true,
+        "imageName": "davien"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Play Coffee",
+        "city": "Orange, CA",
+        "isStudyFriendly": true,
+        "imageName": "play"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Contra Coffee and Tea",
+        "city": "Orange, CA",
+        "isStudyFriendly": true,
+        "imageName": "contra"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Nook Coffee Bar",
+        "city": "Costa Mesa, CA",
+        "isStudyFriendly": true,
+        "imageName": "nook"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Tierra Mia Coffee",
+        "city": "Anaheim, CA",
+        "isStudyFriendly": true,
+        "imageName": "tierramia"
+    }
+    
+]
